@@ -9,9 +9,6 @@
 import java.util.Scanner;
 public class Operating_System
 {   
-    String fname;
-    String sname;
-    
     static Scanner scan = new Scanner(System.in);
     static void add()
     {
